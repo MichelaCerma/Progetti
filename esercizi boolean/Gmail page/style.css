@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    color: white;
+    margin: 0 300px;
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+
+img{
+    width:200px;
+}
+
+#main{
+    display: inline-block;
+}
+.messaggi{
+    display: inline-block;
+}
+.contenitore{
+    
+    border: 1px solid black;
+    color: black;
+    background-color: rgb(169, 165, 42);
+    padding-left: 4px;
+    padding-right: 40px;
+    
+       
+}
+
+.messaggi2{
+    
+    color: rgb(147, 79, 15);
+    display: inline-block; 
+}
+
+.footer{
+    display: inline-block;
+    
+
+}
+.footer-container{
+    text-align: center;
+}
+
+.circle{
+    background-color: rgb(255, 115, 0);
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%;
+
+}

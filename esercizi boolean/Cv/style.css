@@ -1,0 +1,19 @@
+main{
+    margin-left: 20px;
+}
+header{
+    background-color: rgb(107, 199, 230);
+    text-align: center;   
+}
+hr{
+   border-color:darkcyan ;
+}
+
+img{
+    width: 200px;  
+}
+
+h3{
+    color: darkblue;
+}
+
